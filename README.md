@@ -31,8 +31,9 @@ The Maven Coffee Sales dashboard was developed for Maven Roasters, a fictional c
 - Analysis
 - Visualisation
 
-## Dashboard and Pivot Tables
+## Dashboard and Pivot Table
 
+![Pivot table](https://github.com/user-attachments/assets/9c3ace19-9a27-4ac8-b854-12d8595b9d79)
 
 ![New](https://github.com/user-attachments/assets/6ac0eafb-4f5c-41f5-9c4c-88b31be7004a)
 
