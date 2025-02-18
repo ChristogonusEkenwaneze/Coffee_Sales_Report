@@ -1,11 +1,11 @@
 # Coffee Shop Sales Report
 
-- [Project Overview](project_overview)
-- [Tasks](tasks)
-- [Tool](tool)
-- [Processes](processes)
-- [Key Inisghts](key_insights)
-- [Recommendations](recommendations)
+- [Project Overview](#project_overview)
+- [Tasks](#tasks)
+- [Tool](#tool)
+- [Processes](#processes)
+- [Key Inisghts](#key_insights)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 
