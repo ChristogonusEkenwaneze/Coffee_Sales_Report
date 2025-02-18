@@ -31,6 +31,11 @@ The Maven Coffee Sales dashboard was developed for Maven Roasters, a fictional c
 - Analysis
 - Visualisation
 
+## Dashboard and Pivot Tables
+
+
+![New](https://github.com/user-attachments/assets/6ac0eafb-4f5c-41f5-9c4c-88b31be7004a)
+
 ## Key Insights
 
 - Maven Coffee's revenue showed a steady increase from January to June, peaking at $166.49k in June, with a slight dip in February to $76.15k.
