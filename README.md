@@ -4,7 +4,7 @@
 - [Tasks](#tasks)
 - [Tool](#tool)
 - [Processes](#processes)
-- [Key Inisghts](#key_insights)
+- [Key Insights](#key_insights)
 - [Recommendations](#recommendations)
 
 ## Project Overview
